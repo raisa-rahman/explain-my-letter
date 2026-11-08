@@ -1,0 +1,20 @@
+--- METADATA ---
+Source Letter: letter_3.txt
+Prompt Variant: PROMPT_B
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+### Main Update
+Your blood test results show an HbA1c level of 58 mmol/mol. This confirms that you have **Type 2 Diabetes**. Your kidney function is healthy, and your total cholesterol level is 5.8 mmol/mol.
+
+### Your Medications
+* **Metformin (500mg):** Take 1 tablet twice daily (BD) with meals.
+* **Diet:** Cut down on simple sugary foods and refined carbohydrates.
+
+### What You Need To Do Next
+* Book a routine appointment with your GP Practice Nurse **within the next 2 weeks**.
+* During this visit, the nurse will do a foot check, show you how to monitor blood sugar, and review your prescription.
+
+### Warning Signs / What To Do If Unsure or Unwell
+* Contact your GP surgery if you experience persistent stomach upset from the new medication or have questions about managing your blood sugar.

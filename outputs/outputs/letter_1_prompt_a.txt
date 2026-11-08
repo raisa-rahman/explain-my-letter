@@ -1,0 +1,8 @@
+--- METADATA ---
+Source Letter: letter_1.txt
+Prompt Variant: PROMPT_A
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+This letter is about your recent appointment for your heart condition, called persistent atrial fibrillation. The doctor has prescribed a new medicine called Bisoprolol (2.5 mg) to help control your heart rate. You should take one tablet every morning starting tomorrow. It is normal to feel a bit dizzy or tired at first. You need to check your pulse every day before taking your tablet. If your pulse rate is below 50 beats per minute, do not take the tablet and call the cardiology nurse team. You will have another appointment in 8 weeks.

@@ -1,0 +1,8 @@
+--- METADATA ---
+Source Letter: letter_5.txt
+Prompt Variant: PROMPT_A
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+This letter summarizes your discharge after vein treatment on your right leg yesterday. Your skin marks are clean. You must keep your compression stockings on for 48 hours without taking them off. After 48 hours, you can take them off to shower, but wear them during the day for 14 days in total. You can take Paracetamol 1g every 4 to 6 hours for pain (maximum 4 tablets/4g per day). Watch out for signs of blood clots like sudden shortness of breath, chest pain, or leg swelling, and call 999 or go to A&E if they happen.

@@ -1,0 +1,8 @@
+--- METADATA ---
+Source Letter: letter_4.txt
+Prompt Variant: PROMPT_A
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+Your doctor reviewed your rheumatoid arthritis blood tests. Your swelling markers (CRP and ESR) are still high, meaning your arthritis is not controlled well enough. Your Methotrexate dose is increasing from 10mg once a week to 15mg once a week. Take this only on Mondays. Continue taking your Folic Acid 5mg tablets four times a day, but do NOT take Folic Acid on Mondays. Never take Methotrexate every day. Keep doing your monthly blood tests at your GP surgery.

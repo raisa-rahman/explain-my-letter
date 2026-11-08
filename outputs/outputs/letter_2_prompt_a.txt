@@ -1,0 +1,8 @@
+--- METADATA ---
+Source Letter: letter_2.txt
+Prompt Variant: PROMPT_A
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+This letter follows up on your bowel condition (IBD). Your test shows mild inflammation on your left side. You will stay on your regular Mesalazine (1g three times daily), but you are starting a 4-week course of Prednisolone tablets (30mg once a day with food). Do not stop taking Prednisolone suddenly—you must lower your dose by 5mg every week as shown on your steroid card. You have an appointment at Queens Hospital on Tuesday 15th December at 10:15 AM. If you get bad stomach pain, a fever over 38 deg C, or more than 6 bloody bowel movements a day, call the helpline or go to A&E.

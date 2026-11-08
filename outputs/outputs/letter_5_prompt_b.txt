@@ -1,0 +1,22 @@
+--- METADATA ---
+Source Letter: letter_5.txt
+Prompt Variant: PROMPT_B
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+### Main Update
+You are discharged following successful varicose vein treatment (endothermal ablation) on your right leg.
+
+### Your Medications & Wound Care
+* **Paracetamol (1g):** Take every 4 to 6 hours as needed for pain. Maximum 4g (4,000mg) in 24 hours.
+* **Compression Stockings:** Wear continuously for the first **48 hours**. After 48 hours, remove to shower, then wear during daytime for **14 days total**.
+
+### What You Need To Do Next
+* Rest and follow the stocking routine. No hospital follow-up is needed unless your GP requests it.
+
+### Warning Signs / What To Do If Unsure or Unwell
+Go to A&E or **call 999 immediately** if you develop any of these warning signs of a blood clot:
+* Sudden shortness of breath
+* Sharp chest pain when breathing
+* Rapid swelling and severe tenderness in your right calf.

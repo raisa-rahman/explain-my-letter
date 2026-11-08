@@ -1,0 +1,24 @@
+--- METADATA ---
+Source Letter: letter_2.txt
+Prompt Variant: PROMPT_B
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+### Main Update
+Your recent camera test (sigmoidoscopy) showed mild inflammation on the left side of your bowel from your inflammatory bowel disease (IBD) flare-up.
+
+### Your Medications
+* **Mesalazine (1g):** Keep taking your normal dose 3 times daily (TDS).
+* **Prednisolone (30mg):** Take 30mg once daily in the morning with food for 4 weeks.
+* **Important steroid instruction:** **Do not stop Prednisolone suddenly.** Reduce (taper) your dose by 5mg every 7 days as explained on your steroid card.
+
+### What You Need To Do Next
+* **Outpatient Appointment:** Go to Clinic 3, Queens Hospital on **Tuesday 15th December at 10:15 AM**.
+
+### Warning Signs / What To Do If Unsure or Unwell
+Seek emergency help immediately if you experience:
+* Severe stomach pain
+* High fever (above 38 deg C)
+* More than 6 bloody bowel movements in a single day
+* **Contact:** Call the IBD helpline on **01708 555123** immediately or go to A&E.

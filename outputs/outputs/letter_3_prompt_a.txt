@@ -1,0 +1,8 @@
+--- METADATA ---
+Source Letter: letter_3.txt
+Prompt Variant: PROMPT_A
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+Your recent blood tests show an HbA1c score of 58 mmol/mol, which means you have Type 2 Diabetes. Your kidney tests are normal, and your total cholesterol is 5.8 mmol/mol. The doctor recommends starting a medicine called Metformin 500mg twice daily with meals to lower your blood sugar. You should also eat fewer sugary foods. You need to book an appointment with the Practice Nurse within 2 weeks to get your foot check, learn how to check your blood sugar, and get your prescription.

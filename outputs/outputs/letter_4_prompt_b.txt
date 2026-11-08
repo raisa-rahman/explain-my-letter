@@ -1,0 +1,20 @@
+--- METADATA ---
+Source Letter: letter_4.txt
+Prompt Variant: PROMPT_B
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+### Main Update
+Your blood test results show high inflammation levels (CRP 24 mg/L, ESR 38 mm/hr). This means your current medication dose is not fully controlling your rheumatoid arthritis.
+
+### Your Medications
+* **Methotrexate (15mg):** Dose increased from 10mg. **Take 15mg ONCE A WEEK only, on Mondays.**
+* **CRITICAL SAFETY RULE:** Methotrexate is a weekly medicine. **NEVER take it daily.**
+* **Folic Acid (5mg):** Take 4 times daily (QDS) on all days **EXCEPT Monday**. Do not take Folic Acid on Mondays.
+
+### What You Need To Do Next
+* **Monthly Blood Tests:** Keep having your required monthly blood tests (Full Blood Count and Liver Function) at your GP surgery so your home delivery can arrive.
+
+### Warning Signs / What To Do If Unsure or Unwell
+* If you feel unwell or are unsure about your dose schedule, contact your Rheumatology nurse team or GP immediately before taking your weekly tablets.

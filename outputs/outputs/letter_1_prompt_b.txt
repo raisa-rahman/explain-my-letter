@@ -1,0 +1,21 @@
+--- METADATA ---
+Source Letter: letter_1.txt
+Prompt Variant: PROMPT_B
+Model: gpt-4o
+Date: 2026-11-09
+----------------
+
+### Main Update
+You saw the heart doctor to check your irregular heartbeat (persistent atrial fibrillation).
+
+### Your Medications
+* **Bisoprolol (2.5 mg):** Take 1 tablet once daily in the morning, starting tomorrow morning.
+* **Side effects:** You may feel slightly dizzy or tired for the first few days while getting used to it.
+
+### What You Need To Do Next
+* **Check your pulse daily:** Measure your pulse every morning before taking your medicine.
+* **8-Week Review:** You will have a routine check-up appointment in 8 weeks to check your blood pressure and progress.
+
+### Warning Signs / What To Do If Unsure or Unwell
+* **Low pulse rate:** If your resting pulse is below 50 beats per minute (bpm), **do not take your morning tablet**.
+* **Who to call:** Call the cardiology specialist nurse team right away if your pulse is too low or if you feel unwell.
