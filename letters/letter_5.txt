@@ -1,0 +1,1 @@
+-e "Dear Mrs. Joan Smith,\n\nThis letter summarizes your discharge..." 
